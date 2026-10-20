@@ -4,6 +4,7 @@ Dashboard ยอดขายแบบ interactive แปลงมาจากโ
 ข้อมูลนี้ใช้กับไฟล์ตัวอย่าง sale_mini_clean.csv
 
 ตัวอย่างผลลัพธ์ เมื่อนำไปทดลองรันบน local --> https://salesdashboardds.streamlit.app/
+
 หมายเหตุ: หากไม่ทำงาน ให้คลิก "Yes, get this app back up!" เพื่อกระตุ้นให้หน้าแอปทำงาน
 
 ## ไฟล์ในโฟลเดอร์
