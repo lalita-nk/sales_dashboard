@@ -1,0 +1,22 @@
+invoice_no,date,branch,product,category,quantity,unit_price,customer_id,payment_method,country
+INV001,2026-10-01,Siam,Coffee Beans,Beverage,2,350.0,C101,Card,Thailand
+INV002,2026-10-01,Siam,Green Tea,Beverage,5,60.0,C102,Cash,Thailand
+INV003,2026-10-01,Bang Na,Potato Chips,Snack,4,45.0,C103,QR,Thailand
+INV004,2026-10-02,Bang Na,Notebook,Stationery,10,25.0,C101,Cash,Thailand
+INV005,2026-10-02,Lat Phrao,Ballpoint Pen,Stationery,12,15.0,Unknown,Cash,Thailand
+INV006,2026-10-02,Lat Phrao,Coffee Beans,Beverage,1,350.0,C104,QR,Thailand
+INV007,2026-10-03,Siam,Chocolate Bar,Snack,6,40.0,C105,Card,Thailand
+INV008,2026-10-03,Siam,Orange Juice,Beverage,3,55.0,C102,QR,Thailand
+INV009,2026-10-03,Bang Na,Green Tea,Beverage,4,60.0,C106,Cash,Thailand
+INV010,2026-10-04,Bang Na,Highlighter,Stationery,5,30.0,C103,Card,Thailand
+INV012,2026-10-04,Siam,Coffee Beans,Beverage,2,350.0,C108,Card,Thailand
+INV013,2026-10-05,Lat Phrao,Chocolate Bar,Snack,3,40.0,Unknown,Cash,Thailand
+INV014,2026-10-05,Bang Na,Orange Juice,Beverage,2,55.0,C109,QR,Thailand
+INV016,2026-10-06,Lat Phrao,Cookies,Snack,4,50.0,C110,QR,Thailand
+INV018,2026-10-06,Bang Na,Ballpoint Pen,Stationery,20,15.0,C111,Card,Thailand
+INV019,2026-10-07,Siam,Green Tea,Beverage,6,60.0,C102,QR,Thailand
+INV020,2026-10-07,Lat Phrao,Cookies,Snack,2,50.0,C112,Cash,Thailand
+INV021,2026-10-07,Bang Na,Coffee Beans,Beverage,1,350.0,C113,Card,Thailand
+INV022,2026-12-31,Lat Phrao,Highlighter,Stationery,3,30.0,C114,QR,Thailand
+INV023,2026-10-08,Siam,Potato Chips,Snack,5,45.0,C105,Cash,Thailand
+INV024,2026-10-08,Lat Phrao,Orange Juice,Beverage,4,55.0,C104,Card,Thailand
